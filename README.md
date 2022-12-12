@@ -13,7 +13,7 @@ Create Rest API for ToDo App.
 - Clone the repository
 - Install dependencies `npm install`
 - Run `npm run start:dev` to start the development server
-- Check it mocks-> Open the `http://localhost:3000/todos` in a browser (Created some mocks cause as we don’t have database yet)
+- Check it mocks right arrow: Open the `http://localhost:3000/todos` in a browser (Created some mocks cause as we don’t have database yet)
 - Open Postman and send request -> GET, POST, PUT and DELETE
 
 <!-- ### Screenshots
